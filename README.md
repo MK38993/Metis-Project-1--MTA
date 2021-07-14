@@ -1,4 +1,4 @@
-# Metis Project 1: MTA
+# Metis Project 1: MTA Data
  
 ## Question/need:
 In 2020, foot traffic in New York City decreased dramatically due to COVID-19 lockdowns. As a result, retail businesses in New York City saw a massive reduction in customers, and many closed or moved online. Shopping malls that once flourished became deserted.
