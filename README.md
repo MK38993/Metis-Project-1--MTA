@@ -6,7 +6,7 @@ In this project, I analyzed MTA data scraped from the MTA's official website in 
 
 
 ### Design
-
+This project presents a series of plots that highlight stations with high foot traffic, and those which have recovered from COVID lockdowns the fastest.
 
 
 ### Data
